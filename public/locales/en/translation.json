@@ -1,0 +1,23 @@
+{
+    "loading": "Loading",
+    "flight search": "FLIGHT SEARCH",
+    "flight number or city": "Flight number or city",
+    "search": "Search",
+    "departure": "DEPARTURE",
+    "arrival": "ARRIVAL",
+    "yesterday": "Yesterday",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "Unfortunately, due to the situation in the country, there are no flights on the current dates": "Unfortunately, due to the situation in the country, there are no flights on the current dates",
+    "terminal": "Terminal",
+    "local time": "Local time",
+    "destination(departure)": "Destination",
+    "destination(arrival)": "Destination",
+    "status": "Status",
+    "airline": "Airline",
+    "flight": "Flight",
+    "departed": "Departed",
+    "landed": "Landed",
+    "something went wrong": "Something went wrong",
+    "no flight": "No Flight"
+}

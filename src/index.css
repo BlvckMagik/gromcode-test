@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -15,3 +16,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.MuiTooltip-tooltip {
+  line-height: 16px;
+}
+
+.MuiDataGrid-row:nth-of-type(2n-1) {
+  background-color: rgba(0,102,135,.1);
+}
+

@@ -1,0 +1,23 @@
+{
+    "loading": "Завантаження",
+    "flight search": "ПОШУК РЕЙСУ",
+    "flight number or city": "Номер рейсу або місто",
+    "search": "Пошук",
+    "departure": "ВИЛІТ",
+    "arrival": "ПРИЛІТ",
+    "yesterday": "Вчора",
+    "today": "Сьогодні",
+    "tomorrow": "Завтра",
+    "Unfortunately, due to the situation in the country, there are no flights on the current dates": "На жаль, через ситуацію в країні на поточні дати польоти не відбуваються",
+    "terminal": "Термінал",
+    "local time": "Розклад",
+    "destination(departure)": "Напрямок",
+    "destination(arrival)": "Прилітає з",
+    "status": "Статус",
+    "airline": "Авіакомпанія",
+    "flight": "Рейс",
+    "departed": "Вилетів",
+    "landed": "Прибув",
+    "something went wrong": "Щось пішло не так",
+    "no flight": "Немає рейсів"
+}
